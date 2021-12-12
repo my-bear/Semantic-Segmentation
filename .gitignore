@@ -1,0 +1,16 @@
+*.DS_Store
+
+*.ipynb_checkpoints
+
+variables/
+
+assets/
+
+*.pb
+
+clothing-co-parsing/
+
+IMAGES/
+
+MASKS/
+
