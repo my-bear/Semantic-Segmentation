@@ -1,6 +1,7 @@
 *.DS_Store
 
 *.key
+*.h5
 
 *.pages
 
